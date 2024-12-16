@@ -192,8 +192,15 @@ The most basic types in Java are called primitive types\
 ---
 
 ### Primitive types
-the 8 primitive types\
-|   name        |       types                                                   |   
-|---            |---                                                            |
-|   byte        |   integers between -128 and 128 (use 8 bit of memory)         |
-|   short       |   integers between -32,768 and 32,767 (use 16 bit of memory)  |
+The 8 primitive types
+|   name        |       types                                                                       |   
+|---            |---                                                                                |
+|   byte        |   integers between -128 and 128 (use 8 bits of memory)                            |
+|   short       |   integers between -32,768 and 32,767 (use 16 bits of memory)                     |
+|   int         |   integers between -2,147,483 and 2,147,647 (use 32 bits of memory)               |
+|   long        |   integers between -2^63 and 2^63 (use 64 bits of memory)                         |
+|   float       |   for smaller floating/decimal point numbers (use 32 bit of memory)               |
+|   double      |   larger floating point numbers (use 64 bits of memory)                           |  
+|   boolean     |   either true or false values                                                     |
+|               |   Represent a yes/no, this/that, correct/incorrect or otherwise binary decisionn  |  
+|   char        |   single letter, punctuation symbols, numbers, etc. indicated with single quotes  |   
