@@ -67,7 +67,7 @@ class FirstJavaApp {
 • Capitalizing words in the phrase\
 <br />
 
-*Example*: The phrase "Hello everyone!" in came case is `HelloEveryone`
+*Example*: The phrase "Hello everyone!" in came case is `HelloEveryone`\
 •  **Upper camel case** - the first word starts in upper case\
 •  **Lower camel case** - the first word starts in lower case `helloEveryone`
 
@@ -83,6 +83,7 @@ WelcomeToJava
 Calculator
 ```
 <br />
+
 Method names are lower **camel** case
 ○ Lower camel case is when the first word in the phrase is not capitalized\
 ○ If the method name phrase has only one word, then it is lower cased\
