@@ -193,17 +193,17 @@ The most basic types in Java are called primitive types\
 
 ### Primitive types
 The 8 primitive types
-|   name        |       types                                                                       |   
-|---            |---                                                                                |
-|   byte        |   integers between -128 and 128 (use 8 bits of memory)                            |
-|   short       |   integers between -32,768 and 32,767 (use 16 bits of memory)                     |
-|   int         |   integers between -2,147,483 and 2,147,647 (use 32 bits of memory)               |
-|   long        |   integers between -2^63 and 2^63 (use 64 bits of memory)                         |
-|   float       |   for smaller floating/decimal point numbers (use 32 bit of memory)               |
-|   double      |   larger floating point numbers (use 64 bits of memory)                           |  
-|   boolean     |   either true or false values                                                     |
-|               |   Represent a yes/no, this/that, correct/incorrect or otherwise binary decisionn  |  
-|   char        |   single letter, punctuation symbols, numbers, etc. indicated with single quotes  |   
+|   name        |       types                                                                       |   example                                 |
+|---            |---                                                                                |                                        ---| 
+|   byte        |   integers between -128 and 128 (use 8 bits of memory)                            |   byte age = 5 ;                          |
+|   short       |   integers between -32,768 and 32,767 (use 16 bits of memory)                     |   short sqrFeet = 3240;                   |
+|   int         |   integers between -2,147,483 and 2,147,647 (use 32 bits of memory)               |   int accountBalance = 2500000;           |
+|   long        |   integers between -2^63 and 2^63 (use 64 bits of memory)                         |   long nationalDebt = 34849081491943L;    |
+|   float       |   for smaller floating/decimal point numbers (use 32 bit of memory)               |   float unitPrice = 4.99F;                | 
+|   double      |   larger floating point numbers (use 64 bits of memory)                           |   double pi = 3.141592653589793;          |
+|   boolean     |   either true or false values                                                     |   boolean isZoned = true;                 |
+|               |   Represent a yes/no, this/that, correct/incorrect or otherwise binary decisionn  |                                           |
+|   char        |   single letter, punctuation symbols, numbers, etc. indicated with single quotes  |   char grade = 'C';                       |        
 
 ---
 
