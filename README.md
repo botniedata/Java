@@ -157,6 +157,6 @@ HTML documentation multi line comment
 /** 
 * Use slash and two asterisks to start a documentation comment that will  
 * eventually be seen in HTML documentation produced by tools.  Documentation 
-* comments end with slash asterisk like multi-line comments. */
-
+* comments end with slash asterisk like multi-line comments. 
+*/
 ```
