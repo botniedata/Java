@@ -23,18 +23,18 @@ class FirstJavaApp {
 ---
 
 ### Methods
-• Java applications consist of hundreds of classed\
+Java applications consist of hundreds of classed\
    • Methods are like sub-containers for code inside of classes\
    • Each method accomplished a small, discrete bit of work\
-• Methods define reusable sets of code\
+Methods define reusable sets of code\
    • Allowing the same code to be used with different output
    • Producing different outputs
 
 ---
 
 ### Java method
-• Java starts executing from the `main` method\
-• Define the main method with `main` and its own curly brackets `{}`\
+Java starts executing from the `main` method\
+Define the main method with `main` and its own curly brackets `{}`\
    • `public statid void` precedes `main`\
    • `(String[] args)` after `main`\
 ``` 
