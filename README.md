@@ -44,5 +44,16 @@ class FirstJavaApp {
 
     } // main: starting point for an application
 }     // method: sub-containers for code
+```
+
+---
+
+### Terminology cheat sheet
+class: a container for organizing Java code\
+comment: human readable information in Java code that Java ignores\
+method: like sub-containters for code inside of classes\
+main method: the starting point of kick off place for Java application
+
+---
 
 
