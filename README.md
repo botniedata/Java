@@ -150,7 +150,8 @@ Single line comment
 ```
 Multi line comment
 ```
-/* Multi-line comments are accomplised with forward slash and asteriskand then asterisk forward slash */
+/* Multi-line comments are accomplised with forward slash and asterisk
+and then asterisk forward slash */
 ```
 HTML documentation multi line comment
 ```
