@@ -188,3 +188,12 @@ Typing is a way to classify information\
 The most basic types in Java are called primitive types\
 • All other data types are constructed from primitive types\
 • There are 8 primitive types
+
+---
+
+### Primitive types
+the 8 primitive types\
+|   name        |       types                                                   |   
+|---            |---                                                            |
+|   byte        |   integers between -128 and 128 (use 8 bit of memory)         |
+|   short       |   integers between -32,768 and 32,767 (use 16 bit of memory)  |
