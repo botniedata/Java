@@ -6,7 +6,9 @@
 
 Use comments to leave human readable information in the code\
 • Comment are ignored by compilers, tools, and the JRE\
-• Comment lines are marked by `//`\
+• Comment lines are marked by `//`
+<br />
+
 Because they are ignored, coments can go anywhere in the code
 
 ---
@@ -25,7 +27,9 @@ class FirstJavaApp {
 ### Methods
 Java applications consist of hundreds of classed\
    • Methods are like sub-containers for code inside of classes\
-   • Each method accomplished a small, discrete bit of work\
+   • Each method accomplished a small, discrete bit of work
+<br />
+
 Methods define reusable sets of code\
    • Allowing the same code to be used with different output
    • Producing different outputs
