@@ -107,3 +107,17 @@ class FirstJavaApp {
     }
 }
 ```
+
+---
+
+### Java statements
+Lines of code methods are called statements.\
+• All Java lines of code, i.e. statements, end in semicolon `;`
+```
+class FirstJavaApp {
+
+    public.static.void main(String[] args) {
+        System.println("My first Java application");
+    }
+}
+```
