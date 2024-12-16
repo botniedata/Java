@@ -207,11 +207,11 @@ The 8 primitive types
 
 ---
 
-### Variable definition sytax
+### Variable definition syntax
 *type* **name**;\
 *type* **name** = value;
 ```
 // Age and age are different variables!
 int age;
-int Age
+int Age = 18;
 ```
