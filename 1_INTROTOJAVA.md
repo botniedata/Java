@@ -224,8 +224,26 @@ Variables names typically follow *camel casting*\
 `bankAccount`, `licensePlate`
 ```
 // Assigning value when declaring
-double bankAccount = 245.38
+double bankAccount = 245.38;
 ```
 
 • Boolean names oftern start with `is`\
 `isActive`, `isMember`
+```
+// boolean names start with is
+boolean isActive = true;
+```
+
+---
+
+### Declaring primitive variables
+Use `L` or `l` (big or little L) at the end of the number to indicate a **long** integer
+```
+long grossRevenue = 34000000L;
+long netRevenue = 32000000l;
+```
+Use `F` or `f` (big or little F) to indicate a **float**
+```
+float unitPrice = 4.99f; 
+float packagePrice = 11.55F;
+```
