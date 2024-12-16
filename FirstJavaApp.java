@@ -11,7 +11,7 @@ class Main {
     // main method Starts
     public static void main(String[] args) {
     
-        // Print out statement
+        // Print out statement 
         System.out.println("Welcome to Java!");
     // main method Ends
     }
