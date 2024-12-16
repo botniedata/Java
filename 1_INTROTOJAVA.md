@@ -161,3 +161,30 @@ HTML documentation multi line comment
 * comments end with slash asterisk like multi-line comments. 
 */
 ```
+
+---
+
+### Variables
+Variables are named/labelled holders of data\
+• Like laballed moving boxes\
+• They are named to five an indication of the data they hold
+<br />
+
+Variables are typed\
+• Typing provides an indication of how the data can be operated on\
+• Examples of types are numbers or characters\
+Variable names should be represent the data variable holds (e.g., bankBalance)\
+Variables must be typed (integer, floating point, character, etc.)\
+variable data can change but its type may not\
+Java is a "type safe" or "strongly typed" language
+
+---
+
+### Types
+Typing is a way to classify information\
+• Types determine the storage need for the data\
+• Types determine allowed operations on the data\
+<br />
+The most basic types in Java are called primitive types\
+• All other data types are constructed from primitive types\
+• There are 8 primitive types
