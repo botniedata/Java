@@ -75,8 +75,8 @@ class FirstJavaApp {
 
 ### Java naming
 Class names are **upper** camel case\
-○ Upper camel case is when the first word in the phrase is capitalized\
-○ If the class name phrase has only one word, then it is upper cased\
+• Upper camel case is when the first word in the phrase is capitalized\
+• If the class name phrase has only one word, then it is upper cased\
 ```
 FirstJavaApp
 WelcomeToJava
@@ -85,10 +85,24 @@ Calculator
 <br />
 
 Method names are lower **camel** case
-○ Lower camel case is when the first word in the phrase is not capitalized\
-○ If the method name phrase has only one word, then it is lower cased\
+• Lower camel case is when the first word in the phrase is not capitalized\
+• If the method name phrase has only one word, then it is lower cased\
 ```
 searchCustomers
 computeAverage
 main
+```
+
+---
+
+### println
+Use `System.out.println` with a string in `" "` to print something\
+```
+class FirstJavaApp {
+
+    public.static.void main(String[] args) {
+        // Use to output is `System.out.println`
+        System.out.println("My first Java application");
+    }
+}
 ```
