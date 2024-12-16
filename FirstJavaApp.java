@@ -12,7 +12,7 @@ class Main {
     public static void main(String[] args) {
     
         // Print out statement 
-        System.out.printl("Welcome to Java!");
+        System.out.println("Welcome to Java!");
     // main method Ends
     }
 // Class Ends

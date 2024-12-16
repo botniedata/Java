@@ -16,7 +16,6 @@ class PickType {
         float temp = 98.6F;                     // 3.4e-038 to 3.4e+038
         double pi = 3.515926535;                // 1.7e-308 tp 1.8e+308
         boolean isSmoker = false;               // true or false
-
         // Print line 
         System.out.println(nationalDebt);
         System.out.println(temp);
