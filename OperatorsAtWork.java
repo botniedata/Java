@@ -1,4 +1,4 @@
-public class OperatorsAtWork {
+class OperatorsAtWork {
 
     public static void main(String[] args) {
         int scoreTest1 = 78;
