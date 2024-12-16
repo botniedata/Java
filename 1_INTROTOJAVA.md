@@ -215,3 +215,17 @@ The 8 primitive types
 int age;
 int Age = 18;
 ```
+Names are case sensitive\
+`age` is a different variable than `Age`
+<br />
+
+Variables names typically follow *camel casting*\
+• Uppercase the letters on word separation\
+`bankAccount`, `licensePlate`
+```
+// Assigning value when declaring
+double bankAccount = 245.38
+```
+
+• Boolean names oftern start with `is`\
+`isActive`, `isMember`
