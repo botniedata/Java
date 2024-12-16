@@ -121,3 +121,22 @@ class FirstJavaApp {
     }
 }
 ```
+
+---
+
+### Whitespace
+Java ignores *whitespaces*\
+• Whitespace include spaces, tabs or indention, and empty lines
+<br />
+
+Use whitespaces to make your code more readable\
+• Put empty or blank lines between the class and method\
+• Indent methods in a class and statements in a method
+```
+class FirstJavaApp {
+                         // Black lines between the class and method
+    public static void main(String[] args) {                // Indent methods                        
+        System.out.println("My first Java application");    // Indent statements in a method
+    }
+}
+```
