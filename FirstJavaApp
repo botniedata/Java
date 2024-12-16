@@ -1,9 +1,0 @@
-// Java code goes into a class
-class FirstJavaApp{
-
-    // the starting point for an application methods = sub-containers for code
-    public static void main(String[] args) {
-
-    }
-
-}
