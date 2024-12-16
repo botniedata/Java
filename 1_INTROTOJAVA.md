@@ -204,3 +204,14 @@ The 8 primitive types
 |   boolean     |   either true or false values                                                     |
 |               |   Represent a yes/no, this/that, correct/incorrect or otherwise binary decisionn  |  
 |   char        |   single letter, punctuation symbols, numbers, etc. indicated with single quotes  |   
+
+---
+
+### Variable definition sytax
+*type* **name**;\
+*type* **name** = value;
+```
+// Age and age are different variables!
+int age;
+int Age
+```
