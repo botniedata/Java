@@ -1,5 +1,5 @@
 # Java
-### Comment
+### Comments
 Use comments to leave human readable information in the code
 • Comment are ignored by compilers, tools, and the JRE
 • Comment lines are marked by `//`
