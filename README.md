@@ -30,3 +30,19 @@ class FirstJavaApp {
    • Allowing the same code to be used with different output
    • Producing different outputs
 
+---
+
+### Java method
+• Java starts executing from the `main` method\
+• Define the main method with `main` and its own curly brackets `{}`\
+   • `public statid void` precedes `main`\
+   • `(String[] args)` after `main`\
+``` 
+class FirstJavaApp {
+
+    public static void main(String[] args) {
+
+    } // main: starting point for an application
+}     // method: sub-containers for code
+
+
