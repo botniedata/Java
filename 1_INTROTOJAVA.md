@@ -247,3 +247,12 @@ Use `F` or `f` (big or little F) to indicate a **float**
 float unitPrice = 4.99f; 
 float packagePrice = 11.55F;
 ```
+Use `D` or `d` (big or little D) to signal a **double**, but it is optional
+```
+double pi = 3.141592653589793;
+double lightSpeed = 1079252848.8D ;
+```
+`true` and `false` are the two boolean values
+```
+boolean isMinor = true;
+```
