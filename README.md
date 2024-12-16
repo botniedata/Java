@@ -56,4 +56,14 @@ class FirstJavaApp {
 
 ---
 
+### Java and camel case
+**Java** is a case sensitive and uses camel case\
+*Camel case* is the practice of writing phrases\
+• Without spaces or punctuation\
+• Capitalizing words in the phrase\
+<br />
+
+*Example*: The phrase "Hello everyone!" in came case is HelloEveryone\
+•  **Upper camel case** - the first word starts in upper case\
+•  **Lower camel case** - the first word starts in lower case `helloEveryone`
 
