@@ -140,3 +140,23 @@ class FirstJavaApp {
     }
 }
 ```
+
+---
+
+### More on comments
+Single line comment
+```
+// A single line comment is denoted with two forward slahes
+```
+Multi line comment
+```
+/* Multi-line comments are accomplised with forward slash and asteriskand then asterisk forward slash */
+```
+HTML documentation multi line comment
+```
+/** 
+* Use slash and two asterisks to start a documentation comment that will  
+* eventually be seen in HTML documentation produced by tools.  Documentation 
+* comments end with slash asterisk like multi-line comments. */
+
+```
