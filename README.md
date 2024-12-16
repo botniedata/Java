@@ -40,7 +40,7 @@ Methods define reusable sets of code\
 Java starts executing from the `main` method\
 Define the main method with `main` and its own curly brackets `{}`\
    • `public statid void` precedes `main`\
-   • `(String[] args)` after `main`\
+   • `(String[] args)` after `main`
 ``` 
 class FirstJavaApp {
 
@@ -67,7 +67,27 @@ class FirstJavaApp {
 • Capitalizing words in the phrase\
 <br />
 
-*Example*: The phrase "Hello everyone!" in came case is HelloEveryone\
+*Example*: The phrase "Hello everyone!" in came case is `HelloEveryone`
 •  **Upper camel case** - the first word starts in upper case\
 •  **Lower camel case** - the first word starts in lower case `helloEveryone`
 
+---
+
+### Java naming
+Class names are **upper** camel case\
+○ Upper camel case is when the first word in the phrase is capitalized\
+○ If the class name phrase has only one word, then it is upper cased\
+```
+FirstJavaApp
+WelcomeToJava
+Calculator
+```
+<br />
+Method names are lower **camel** case
+○ Lower camel case is when the first word in the phrase is not capitalized\
+○ If the method name phrase has only one word, then it is lower cased\
+```
+searchCustomers
+computeAverage
+main
+```
