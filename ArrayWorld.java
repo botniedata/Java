@@ -16,7 +16,7 @@ public class ArrayWorld {
         double[] costs = {5.5, 7.2, 1.8, 3.0};
 
         // Replace 1.8 with 9.4
-        costs[2] = 9.4D;
+        costs[2] = 9.4D;                // Index: 2 is 1.8
         System.out.println(costs[2]);   // Output: from 1.8 to 9.4
     }
 }
